@@ -1,0 +1,14 @@
+/home/chris/.config/mango/dynamic-tags-rs/target/release/deps/serde-bd37eb9ff21df045.d: /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/chris/.config/mango/dynamic-tags-rs/target/release/build/serde-3bde00971c2418ad/out/private.rs
+
+/home/chris/.config/mango/dynamic-tags-rs/target/release/deps/libserde-bd37eb9ff21df045.rlib: /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/chris/.config/mango/dynamic-tags-rs/target/release/build/serde-3bde00971c2418ad/out/private.rs
+
+/home/chris/.config/mango/dynamic-tags-rs/target/release/deps/libserde-bd37eb9ff21df045.rmeta: /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/chris/.config/mango/dynamic-tags-rs/target/release/build/serde-3bde00971c2418ad/out/private.rs
+
+/home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/chris/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/chris/.config/mango/dynamic-tags-rs/target/release/build/serde-3bde00971c2418ad/out/private.rs:
+
+# env-dep:OUT_DIR=/home/chris/.config/mango/dynamic-tags-rs/target/release/build/serde-3bde00971c2418ad/out
